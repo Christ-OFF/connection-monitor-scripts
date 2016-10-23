@@ -28,6 +28,6 @@ which tel to run the command every 5 minutes
    * Edit `sudo nano /usr/local/bin/pingtest.sh` 
    * Add `echo ` in front of last line
    * Run : `sudo nano /usr/local/bin/pingtest.sh`
-* Open CouchDB database : http://127.0.0.1:5984/_utils/database.html?ping
+* Open CouchDB database : http://127.0.0.1:5984/_utils/database.html?ping  
 ### References
 * CouchDB tutorial : http://docs.couchdb.org/en/2.0.0/intro/tour.html
